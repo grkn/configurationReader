@@ -1,0 +1,8 @@
+com\trendyol\demo\service\ConfigParameterServiceImpl.class
+com\trendyol\demo\repository\ConfigParameterRepository.class
+com\trendyol\demo\service\ConfigParameterService.class
+com\trendyol\demo\SpringBootWebApplication.class
+com\trendyol\demo\ConfigListController.class
+com\trendyol\demo\repository\ConfigParameterRepositoryCustomImpl.class
+com\trendyol\demo\repository\ConfigParameterRepositoryCustom.class
+com\trendyol\demo\model\ConfigParameter.class
